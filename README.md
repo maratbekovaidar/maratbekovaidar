@@ -1,7 +1,6 @@
 ![Header](https://github.com/maratbekovaidar/maratbekovaidar/blob/main/assets/images/header.png)
 
 ## Hello! I'am a beginer Software Engeneer and Full-Stack Devloper
-
 ## Languages and Tools
 ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=yellow)
 ![JS](https://img.shields.io/badge/Js-090909?style=for-the-badge&logo=javascript&logoColor=yellow)
@@ -9,7 +8,6 @@
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React&logoColor=blue)
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=&logoColor=red)
 ![Laravel](https://img.shields.io/badge/Laravel-090909?style=for-the-badge&logo=Laravel&logoColor=red)
-
 ## Floow me 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=red)](https://t.me/maratbekovaidar)
 [![VK](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/maratbekovaidar)
