@@ -1,9 +1,8 @@
 ![Header](https://github.com/maratbekovaidar/maratbekovaidar/blob/main/assets/images/header.png)
 
 ## Hello! I'am a beginer Software Engeneer and Full-Stack Devloper
-I study at Astana IT University. I learn Web-Developing and Android-Developing on Kotlin. Me and my friend, Lotus create team - Astrea Team! We will be develop a games in Unity!
-## Languages and Tools
 
+## Languages and Tools
 ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=yellow)
 ![JS](https://img.shields.io/badge/Js-090909?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=purple)
@@ -16,3 +15,5 @@ I study at Astana IT University. I learn Web-Developing and Android-Developing o
 [![VK](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/maratbekovaidar)
 [![Twitter](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=blue)](https://twitter.com/maratbekovaidar)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=ogrange)](https://www.instagram.com/maratbekovaidar/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maratbekovaidar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
