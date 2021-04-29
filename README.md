@@ -8,6 +8,7 @@
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React&logoColor=blue)
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=&logoColor=red)
 ![Laravel](https://img.shields.io/badge/Laravel-090909?style=for-the-badge&logo=Laravel&logoColor=red)
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=green)
 ## Follow me 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=red)](https://t.me/maratbekovaidar)
 [![VK](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/maratbekovaidar)
