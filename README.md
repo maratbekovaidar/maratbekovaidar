@@ -7,8 +7,6 @@
 ![Dart](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=Dart&logoColor=purple)
 ![Spring](https://img.shields.io/badge/Spring-090909?style=for-the-badge&logo=Spring&logoColor=green)
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=Cplusplus&logoColor=green)
-![Laravel](https://img.shields.io/badge/Laravel-090909?style=for-the-badge&logo=Laravel&logoColor=red)
-![Php](https://img.shields.io/badge/Php-090909?style=for-the-badge&logo=Php&logoColor=blue)
 ![Go](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=Go&logoColor=blue)
 ## Follow me 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=red)](https://t.me/maratbekovaidar)
