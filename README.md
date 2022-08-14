@@ -1,6 +1,6 @@
 ![Header](https://github.com/maratbekovaidar/maratbekovaidar/blob/main/assets/images/header.png)
 
-## Hello! I'm a beginner Software Engineer and Full-Stack Developer
+## Hello! 
 ## Languages and Tools
 ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=yellow)
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=blue)
