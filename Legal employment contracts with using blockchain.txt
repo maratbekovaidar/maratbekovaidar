@@ -1,0 +1,128 @@
+﻿Research Methods and Tools
+6 February, 2023, Astana, Kazakhstan
+Legal employment contracts with using blockchain
+
+
+Aidar Maratbekov 
+Software Engineering
+Astana IT University
+201418@astanait.edu.kz
+	Abylay Aiyp
+Software Engineering
+Astana IT University
+201724@astanait.edu.kz
+	Kanat Orynbaev
+Software Engineering
+Astana IT University
+201209@astanait.edu.kz
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+     Abstract - The potential benefits that blockchain technology might have for many sectors have recently propelled them to the forefront of the scientific and business communities. This is because they have the practical ability to address several problems that are now impeding future development in many industrial fields. Creating automated and effective supply chain operations, improving transparency throughout the whole value chain, and securely storing and exchanging transactional data are a few examples of these difficulties. Using distributed, shared, secure, and permissioned transactional ledgers, blockchain offers a practical solution to these problems. Also, in hiring employees, both global and local problems arise, such as an excess of paper rolls, the transparency of the process of hiring an employee and the reliability of the company. In this article, our goal is to link the blockchain system and the employment contract, making an analogy with smart contracts. Also in this article we will describe a complete analysis in terms of the technical part and, although minimally, we will show a commensurate example of the use of blockchain technology and an employment contract.
+I. Introduction
+     Relevance of research topic. The research topic of "Legal employment contracts using blockchain" is highly relevant and timely, as the legal industry is currently undergoing a digital transformation. The increasing popularity and use of blockchain technology in various industries have raised questions about its potential application in the legal sector. With the potential for increased efficiency, security, and transparency, the use of blockchain in legal employment contracts is an area that deserves further investigation.
+     One of the main benefits of using blockchain in legal employment contracts is the ability to reduce the risk of disputes. The decentralized and transparent nature of blockchain can help ensure that all parties have access to the same information, reducing the risk of misunderstandings or disagreements. Furthermore, the use of smart contracts on the blockchain can automate certain processes, such as the release of payments, reducing the risk of human error and increasing efficiency.
+     Additionally, the use of blockchain can also increase the security of legal employment contracts by reducing the risk of fraud. The decentralized nature of blockchain makes it difficult for malicious actors to manipulate or change the information stored on the blockchain, providing a high level of security for the agreement.
+     In conclusion, the use of blockchain in legal employment contracts is a rapidly growing area of research and has the potential to significantly impact the legal industry. By exploring the potential benefits and challenges of using blockchain in this context, this research topic has the potential to make a meaningful contribution to the field of law and technology.
+     The research problem of "Legal employment contracts with using blockchain" can be defined as follows: Despite the potential benefits of using blockchain technology in legal employment contracts, such as increased transparency, security, and efficiency, there is a lack of understanding of the practical challenges and limitations of this technology in the context of legal agreements.
+  The main goal of the study of "Legal employment contracts with using blockchain" for a scientific journal is to evaluate and understand the potential benefits, challenges, and limitations of using blockchain technology in the context of legal employment contracts. This research aims to provide a comprehensive analysis of the practical and legal implications of using blockchain in this context and contribute to the development of best practices and guidelines for its use. 
+The specific objectives of this study are as follows:
+* To identify the potential benefits of using blockchain technology in legal employment contracts, such as increased transparency, security, and efficiency.
+* To evaluate the legal and practical challenges and limitations of using blockchain in legal employment contracts and provide recommendations for addressing them.
+* To explore the potential for automating certain processes in legal employment contracts using blockchain technology and evaluate its benefits and limitations.
+* To examine the potential implications of using blockchain in legal employment contracts for the legal industry and provide insights into the challenges that need to be overcome to realize its full potential.
+Research questions:
+1. How might blockchain technology be used in legally binding employment contracts to improve the document's efficiency, security, and transparency?
+2. What are the restrictions and legal issues with using blockchain in legitimate employment contracts, and how may they be resolved?
+3. What are the advantages and drawbacks of using blockchain technology to automate specific procedures in formal employment contracts, such as the delivery of payments?
+4. What are the possible ramifications for the legal sector of employing blockchain in employment contracts, and what obstacles must be surmounted before its full potential can be realized?
+
+
+II. Literature review
+
+
+     This part of research will explore the current use of blockchain technology within the context of legal employment contracts. The discussion will begin by exploring the development of blockchain technology and its potential applications within the legal sphere. It will then move on to consider the current state of blockchain adoption within the legal field and its potential benefits. Finally, the review will discuss the challenges and drawbacks of using blockchain technology in legal employment contracts, in particular, and propose solutions for improving its use. This literature review will provide an overview of the current state of research and development in this area, and discuss the implications for the future of legal employment contracts.
+2. Blockchain technologies        
+2.1 Definition of Blockchain
+     A growing collection of records that are linked together and secured using encryption algorithms is known as a blockchain. The success of this list is mostly due to the connections that are made between the blocks; as a result, it is challenging to change any block after it has been put to the list [1]. The concept underlying the operation of the digital currency Bitcoin was initially referred to as "blockchain technology." The inventor of Bitcoin did not use the word "blockchain" in his whitepaper, and after reading it, it is clear that he was not introducing a new technology in the conventional sense of the word, but rather a software design that drew on a number of already-existing technologies to enable him to create a "purely peer-to-peer version of electronic cash" [2]. Every time two network members interact, they broadcast their transaction to all other network members (nodes), who then record it in a block with a finite amount of space.
+     This is the fundamental workings of the Bitcoin blockchain. As soon as the block is complete, nodes carry out Proof-of-Work, which are mathematical operations that are challenging to solve but whose right outcome is simple to verify. These mathematical processes have nothing to do with bitcoin transactions, yet they are essential to the system's functionality because they make the validating nodes use processing power that would otherwise be wasted if any fraudulent or invalid transactions were present [3].
+
+
+2.2 Blockchain-Based Smart Contracts
+     Recently, there has been a lot of enthusiasm around blockchain technology, and one of the main reasons for this hope is how it would be used for so-called "smart contracts." In order to automatically and safely carry out commitments, smart contracts use the blockchain, a distributed digital ledger that securely records transactions between participants [9]. Many believe that the most potential use of blockchain technology is in smart contracts. The fundamental concept is that the contractual parties consent to a list of terms that are written in computer code (and which can therefore include any conditions that computers can understand).
+     In contrast, classic contracts are applied differently. The terms of the contract are typically written down, followed by observation and, if necessary, application in phases: if the contract is broken, the injured party must take action to identify and document the harm, as well as (possibly) initiate legal action where a breach is discovered, and ensure that any damages are repaired in order to make her "whole" again (that is, to bring her to the financial position she would have been in had the contract It was performed).
+     It is essential to remember that the enforcement phase technically relies on centralized institutions—courts—for conflict mediators and on the claimant doing actions that necessitate access to a variety of resources, including information, cash, and time (Felstiner et al. 1980). In summary, standard contract execution is messy and resource-intensive, and much of the enthusiasm for smart contracts is motivated by this seeming inefficiency. Of course, part of this zeal is legitimate. There are good reasons to avoid using centralized authorities for governance: such an authority may be dishonest or susceptible to political forces outside the control of the contracting parties; this may cause unnecessarily long delays or bureaucratic inefficiency in resolving the conflict; or it may fail entirely.
+Additionally, decentralization can support the objectives of social justice, fairness, and fair results. A self-executing agreement might theoretically eliminate some of the institutional obstacles that prohibit those who are less fortunate from pursuing property claims [5]. It is generally acknowledged that institutional parties with more financial resources consistently outperform smaller parties in court [8] socioeconomic hurdles frequently prevent people from accessing the courts in the first place. Smart contracts can be viewed in some settings as reducing some of the obstacles that prohibit the relatively unfavorable from accomplishing their lawful aims by extending enforcement outside the centralized judiciary.
+
+
+2.3 Traditional Legal Employment Contracts
+     Permanent full-time and part-time employees who have either an express or implicit knowledge that their job would be ongoing or continuing are considered to be in this category of "traditional" employment. Sometimes a category of contingent labor includes part-time jobs[7]. However, the majority of part-time agreements are built on continuing working ties and give employees more flexibility to accommodate ad hoc work schedules [4].
+     This allows for the following primary classifications of agency workers to be made:
+1. Employees engaged by temporary firms on a direct, brief-term contract through companies. The temporary help company assigns and pays a temporary worker to work at the client's facilities for a certain amount of time.
+2. Internal temporary employees: Individuals recruited directly by an employer from its own "roster" or list of employees in order to fill temporary or sporadic scheduling demands. Employers may enhance flexibility and cut expenses by establishing their own time pools, but they can also use them to vet new workers [10].
+3. Independent Contractors: Self-employed individuals hired or contracted by a company to perform specialized tasks, such as physical labor, software development, or other engineering applications. Independent contractors have their unique employee-client relationship because they are often self-employed [11].
+     First, there is a clear employee-employer connection in the conventional paradigm of employment. It's crucial to use the word "employee" since it denotes a shared sense of duty. Second, a worker may be committed to a single employer organization by emotional (such as identification with organizational aims and values), continual (such as the absence of suitable alternatives), or normative (such as societal pressure and expectations) commitment. Third, under the conventional paradigm, workers are frequently seen as doing a "particular" task inside an organization (receptionist, sales representative, nurse, etc.). The majority of behavioral research has equated "job commitment" with "work participation". Last but not least, depending on the type of work being done, commitment can also be defined in terms of attachment to or affiliation with a profession. Occupational commitment may also intersect with the related concepts of "career" or "professional" commitment, depending on the time frame or nature of the work being done (Morrow, 1983).
+
+
+2.4   How Traditional employment contracts can be changed by using Blockchain.
+     Traditional employment contracts can be changed by using blockchain in a number of ways. Firstly, blockchain can provide a secure, immutable ledger for storing employee records and contract details. This immutable ledger means that no one can tamper with the data, meaning that it is completely secure. Additionally, blockchain can be used to automate the payment of wages, meaning that employees can be paid instantly and securely. This could reduce the amount of paperwork and bureaucracy associated with traditional employment contracts. Finally, blockchain can be used to create smart contracts which are automatically executed when pre-specified conditions are met. This can provide an easy and secure way for employers to ensure that their employees receive their salary and benefits on time. 
+     However, there are also some potential drawbacks to the use of blockchain technology in employment contracts. The technology is still in its early stages and there is a lack of legal and regulatory frameworks that define how it should be used. Furthermore, there is a lack of clarity surrounding the enforceability of blockchain-based contracts, and there is a risk that the contracts may be difficult to enforce in the event of a dispute. Additionally, due to the complex nature of the technology, it may be difficult for employers and employees to understand the terms and conditions of their contracts. 
+     Blockchain technology has the potential to revolutionize the way legal employment contracts are created and updated. By leveraging smart contracts, employers can create and manage employment contracts in a secure and transparent manner. The contract will be stored on the blockchain and can be updated in real-time, as agreed upon by both parties. This could help ensure that all changes to the agreement are tracked and recorded, reducing the risk of misunderstandings or disputes between the employer and employee. Additionally, the use of blockchain technology could help streamline the process of creating and signing employment contracts, as well as the process of updating them. This could save time, money and effort for both parties involved.
+     2.5 Summary 
+     In conclusion, the use of blockchain technology in employment contracts has the potential to revolutionize the way employers and employees interact. It can provide faster and more secure transactions, as well as reducing the cost and complexity of negotiation. However, there are also some potential drawbacks, such as the lack of legal and regulatory frameworks, the difficulty of enforcing the contracts, and the complexity of understanding the terms and conditions. Further research is needed to better understand the potential benefits and drawbacks of using blockchain technology in employment contracts.
+
+
+III. Research methodology
+
+
+     The goal of our product is to provide a secure and transparent platform for conducting legal employment contracts using blockchain technology. Our target audience is the growing market segment of organizations, schools, and universities that require a reliable and efficient way of conducting employee contracts.
+     Several factors are driving the growth of this market segment, including the widespread use of mobile devices, the increasing use of the internet, ongoing advancements in technology, and a growing population. These factors have led to a growing demand for more convenient and efficient ways of conducting legal employment contracts.
+     Our platform is designed to meet the needs of a wide range of organizations and institutions, from large corporations to schools and universities. Our initial launch will focus on the citizens of Kazakhstan who are of legal age and eligible to participate in employment contracts.
+     We conducted a survey of 50 people to gather insights into their experiences and opinions on the current methods of conducting employment contracts. The majority of respondents were between 18 and 24 years old, with a higher representation of males. Most of the respondents were single and unmarried, and came from different cities in Kazakhstan, with the majority being from the capital Astana.
+     The survey results showed that the majority of respondents have already had experience with employment contracts and are open to using a digital solution. A majority of respondents considered the blockchain to be a safe and secure way of verifying each contract, and over 50% believed that the introduction of a digital employment contract system was likely.
+     Our platform offers a solution to the issues faced by the current system of conducting employment contracts. By using blockchain technology, we can ensure the security and transparency of each contract, eliminate forgery, and provide a convenient and efficient way for organizations and institutions to conduct their contracts.
+     A use case diagram for our platform would include the following elements:
+
+
+Actors:
+* Employee: The individual who signs the employment contract.
+* Employer: The organization or institution responsible for offering employment contracts.
+* Blockchain Node: The technology that ensures the immutability and security of the contract data.
+Use Cases:
+* Sign Contract: The employee provides their information and signs the employment contract.
+* Verify Contract: The employer verifies that the contract has been signed correctly and accurately.
+* Store Contract: The blockchain node securely stores the contract data.
+Relationships:
+* Association: A relationship between the Employee and the Employer indicating that the Employee can interact with the Employer to sign the employment contract.
+* Dependency: A relationship between the Employer and the Blockchain Node indicating that the Employer depends on the blockchain for verifying and storing the contract data.
+
+
+IV. CONCLUSIONS AND FUTURE WORK
+
+
+     The 
+implementation of blockchain technology in legal employment contracts has the potential to revolutionize the way employment agreements are managed. By creating a tamper-proof and secure ledger of contract terms and conditions, the use of blockchain in employment contracts can enhance transparency, improve efficiency, and increase trust between employers and employees. The decentralized nature of blockchain technology also provides a secure platform for storing and sharing sensitive information, such as personal data and compensation details.
+     Furthermore, the use of smart contracts in employment agreements can automate the enforcement of contract terms and conditions, reducing the need for manual intervention and minimizing the risk of disputes. This can significantly improve the speed and efficiency of contract administration and reduce the workload for HR departments.
+     Despite the significant potential benefits of using blockchain in legal employment contracts, there are still some challenges that need to be addressed. One of the major challenges is the lack of standardization in the application of blockchain technology in employment contracts, which can lead to confusion and compatibility issues. To overcome this challenge, it is essential to establish a common set of standards and protocols for the use of blockchain in legal employment contracts.
+     Another area of future work is to explore the use of blockchain in combination with artificial intelligence and machine learning algorithms. This can enhance the automation of contract management processes and provide real-time insights and analytics to employers and employees.
+     In conclusion, the use of blockchain technology in legal employment contracts has the potential to transform the way employment agreements are managed. However, further research and development is needed to overcome the challenges and fully realize the potential of this technology in the employment domain.
+References
+1. Al-Jaroodi, J., & Mohamed, N. (2019). Blockchain in Industries: A Survey. IEEE Access, 7, 36500–36515. https://doi.org/10.1109/access.2019.2903554
+2. Ammous, S. H. (2016). Blockchain Technology: What is it Good for? SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2832751
+3. Andolfatto, D. (2018). Blockchain: What It Is, What It Does, and Why You Probably Don’t Need One. Review, 100(2), 87–95. https://doi.org/10.20955/r.2018.87-95
+4. Barling, J. and D.G. Gallagher (1996) ‘Part-Time Employment’, pp. 243–77 inC.L. Cooper and I.T. Robertson (eds)International Review of Industrial and Orga-nizational Psychology, Vol. 11. Chichester: Wiley.
+5. Casey, M. 2016. “Could Blockchain Technology Help the World’s Poor?” World Economic Forum Agenda, March 9. Accessed 10 June 2016. https://www.weforum.org/agenda/2016/03/could-blockchain-technology-help-the-worlds-poor.
+6. Felstiner, W. L., Abel, R. L., & Sarat, A. (1980). The Emergence and Transformation of Disputes: Naming, Blaming, Claiming . . . Law &Amp; Society Review, 15(3/4), 631. https://doi.org/10.2307/3053505
+7. Feldman, D.C. (1995) ‘Managing Part-Time and Temporary Employment Relation-ships: Individual Needs and Organizational Demands’, pp. 121–41 in M. London(ed.)Employees, Careers, and Job Creation. San Francisco, CA: Jossey-Bass.
+8. Galanter, M. 1974. “Why the ‘Haves’ Come Out Ahead.” Law and SocietyReview9(1): 95-160.
+9. Levy, K. E. C. (2017). Book-Smart, Not Street-Smart: Blockchain-Based Smart Contracts and The Social Workings of Law. Engaging Science, Technology, and Society, 3, 1–15. https://doi.org/10.17351/ests2017.107
+10. Parker, S.K., M.A. Griffin, C.A. Sprigg and T.D. Wall (2002) ‘Effect of TemporaryContract on Perceived Work Characteristics and Job Strain: A LongitudinalStudy’,Personnel Psychology 55: 689–719.
