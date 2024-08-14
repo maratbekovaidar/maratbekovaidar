@@ -2,11 +2,8 @@
 
 ## Hello! 
 ## Languages and Tools
-![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=yellow)
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=flutter&logoColor=blue)
 ![Dart](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=Dart&logoColor=purple)
-![Spring](https://img.shields.io/badge/Spring-090909?style=for-the-badge&logo=Spring&logoColor=green)
-![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=Cplusplus&logoColor=green)
 ![Go](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=Go&logoColor=blue)
 ## Follow me 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=red)](https://t.me/maratbekovaidar)
